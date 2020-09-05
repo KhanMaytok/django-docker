@@ -1,2 +1,7 @@
-venv/
 .idea/
+venv/
+.env
+__pycache__
+
+/static/
+debug.log
